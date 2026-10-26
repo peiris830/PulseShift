@@ -1,0 +1,13 @@
+.tools/
+.venv/
+artifacts/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.env
+coverage.out
+**/target/
+*.exe
+.DS_Store
